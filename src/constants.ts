@@ -5,42 +5,51 @@ export const LABEL_LIMIT = 1;
 export const LABELS: Label[] = [
   {
     rkey: 'insert-rkey-here',
-    identifier: 'earth',
+    identifier: 'polvorona',
     locales: [
-      { lang: 'en', name: 'Earth 🌎', description: 'Earth'},
-      { lang: 'pt-BR', name: 'Terra 🌎', description: 'Terra'},
+      { lang: 'es', name: 'polvorona', description: 'polvorona'},
     ]
   },
   {
     rkey: 'insert-rkey-here',
-    identifier: 'fire',
+    identifier: 'polvorata',
     locales: [
-      { lang: 'en', name: 'Fire 🔥', description: 'Fire'},
-      { lang: 'pt-BR', name: 'Fogo 🔥', description: 'Fogo'},
+      { lang: 'es', name: 'polvorata', description: 'polvorata'},
     ]
   },
   {
     rkey: 'insert-rkey-here',
-    identifier: 'air',
+    identifier: 'navideño/a/e',
     locales: [
-      { lang: 'en', name: 'Air 💨', description: 'Air'},
-      { lang: 'pt-BR', name: 'Ar 💨', description: 'Ar'},
+      { lang: 'es', name: 'navideño/a/e', description: 'navideño/a/e'},
     ]
   },
   {
     rkey: 'insert-rkey-here',
-    identifier: 'water',
+    identifier: 'reduccionista',
     locales: [
-      { lang: 'en', name: 'Water 💧', description: 'Water'},
-      { lang: 'pt-BR', name: 'Água 💧', description: 'Água'},
+      { lang: 'es', name: 'reduccionista', description: 'reduccionista'},
     ]
   },
   {
     rkey: 'insert-rkey-here',
-    identifier: 'love',
+    identifier: 'danone',
     locales: [
-      { lang: 'en', name: 'Love 💞', description: 'Love'},
-      { lang: 'pt-BR', name: 'Amor 💞', description: 'Amor'},
+      { lang: 'es', name: 'danone', description: 'danone'},
+    ]
+  },
+  {
+    rkey: 'insert-rkey-here',
+    identifier: 'simpauler',
+    locales: [
+      { lang: 'es', name: 'simpauler', description: 'simpauler'},
+    ]
+  },
+  {
+    rkey: 'insert-rkey-here',
+    identifier: 'alvaromayista',
+    locales: [
+      { lang: 'es', name: 'alvaromayista', description: 'alvaromayista'},
     ]
   },
 ];
