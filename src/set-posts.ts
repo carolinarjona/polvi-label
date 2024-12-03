@@ -35,7 +35,7 @@ if (answer === 'y') {
 }
 
 const post = await bot.post({
-  text: 'Like the replies to this post to receive labels.',
+  text: 'Dale me gusta al post que quieras y agregarás tu etiqueta bajo tu perfil 🎄.',
   threadgate: { allowLists: [] },
 });
 
@@ -52,7 +52,7 @@ for (const [name, rkey] of Object.entries(labelRkeys)) {
   console.log(`    rkey: '${rkey}',`);
 }
 
-const deletePost = await bot.post({ text: 'Like this post to delete all labels.' });
+const deletePost = await bot.post({ text: 'Dale me gusta a este post para eliminar todas las etiquetas.' });
 const deletePostRkey = deletePost.uri.split('/').pop()!;
 console.log('Delete post rkey:');
 console.log(`export const DELETE = '${deletePostRkey}';`);

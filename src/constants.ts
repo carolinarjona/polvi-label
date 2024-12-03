@@ -7,49 +7,49 @@ export const LABELS: Label[] = [
     rkey: 'insert-rkey-here',
     identifier: 'polvorona',
     locales: [
-      { lang: 'es', name: 'polvorona', description: 'polvorona'},
+      { lang: 'es', name: 'polvorona 💜', description: 'polvorona'},
     ]
   },
   {
     rkey: 'insert-rkey-here',
     identifier: 'polvorata',
     locales: [
-      { lang: 'es', name: 'polvorata', description: 'polvorata'},
+      { lang: 'es', name: 'polvorata 🐀', description: 'polvorata'},
     ]
   },
   {
     rkey: 'insert-rkey-here',
     identifier: 'navideño/a/e',
     locales: [
-      { lang: 'es', name: 'navideño/a/e', description: 'navideño/a/e'},
+      { lang: 'es', name: 'navideño/a/e 🎄', description: 'navideño/a/e'},
     ]
   },
   {
     rkey: 'insert-rkey-here',
     identifier: 'reduccionista',
     locales: [
-      { lang: 'es', name: 'reduccionista', description: 'reduccionista'},
+      { lang: 'es', name: 'reduccionista 🔪', description: 'reduccionista'},
     ]
   },
   {
     rkey: 'insert-rkey-here',
     identifier: 'danone',
     locales: [
-      { lang: 'es', name: 'danone', description: 'danone'},
+      { lang: 'es', name: 'danone 🥄', description: 'danone'},
     ]
   },
   {
     rkey: 'insert-rkey-here',
     identifier: 'simpauler',
     locales: [
-      { lang: 'es', name: 'simpauler', description: 'simpauler'},
+      { lang: 'es', name: 'simpauler 👾', description: 'simpauler'},
     ]
   },
   {
     rkey: 'insert-rkey-here',
     identifier: 'alvaromayista',
     locales: [
-      { lang: 'es', name: 'alvaromayista', description: 'alvaromayista'},
+      { lang: 'es', name: 'alvaromayista ⭐', description: 'alvaromayista'},
     ]
   },
 ];
